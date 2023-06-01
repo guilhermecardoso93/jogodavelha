@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  padding: 10rem;
+  text-align: center;
+}
+
+main {
+  margin: 0 auto;
+}
+
+#game {
+  display: grid;
+  grid-template-cols: fr1(3x);
+}

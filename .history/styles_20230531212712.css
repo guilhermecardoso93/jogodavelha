@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  padding: 10rem;
+  text-align: center;
+}
+
+main {
+  margin: 0 auto;
+}
+
+#game {
+  text-align: center;
+  width: 100%;
+}
